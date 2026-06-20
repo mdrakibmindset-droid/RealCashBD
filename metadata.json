@@ -1,0 +1,6 @@
+{
+  "name": "Real Cash BD 💰",
+  "description": "Android app for earning money through watch-and-earn, daily check-in, spin wheel, scratch card, and referrals with integrated Firebase messaging, AdMob support, and Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
